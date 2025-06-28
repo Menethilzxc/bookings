@@ -41,9 +41,17 @@
 - Изменение статуса номеров (доступен / забронирован)
 
 ##  Превью
+
+### Главная страница
 ![Главная страница](./frontend/src/assets/main-preview.png)
+
+### Страница отеля
 ![Страница отеля](./frontend/src/assets/page-preview.png)
+
+### Панель администратора
 ![Панель администратора](./frontend/src/assets/admin-preview.png)
+
+### Личный кабинет
 ![Личный кабинет](./frontend/src/assets/personal-preview.png)
 
 ##  Установка и запуск (локально)
