@@ -1,7 +1,8 @@
 # Сервис бронирования номеров 
 
 Веб-приложение для бронирования отелей с личным кабинетом пользователя и админской панелью. Реализован backend на Node.js и frontend на React. Сайт размещён на собственном сервере.
-**Демо:** [http://85.198.81.221:3008/](http://85.198.81.221:3008/)
+
+- **Демо:** [http://85.198.81.221:3008/](http://85.198.81.221:3008/)
 
 ##  Стек технологий
 
@@ -40,9 +41,9 @@
 - Изменение статуса номеров (доступен / забронирован)
 
 ##  Превью
-![Главная страница](./frontend/src/assets/booking-main.jpg)
-![Страница отеля](./frontend/src/assets/booking-room.jpg)
-![Панель администратора](./frontend/src/assets/booking-admin.jpg)
+![Главная страница](./frontend/src/assets/main-preview.jpg)
+![Страница отеля](./frontend/src/assets/page-preview.jpg)
+![Панель администратора](./frontend/src/assets/admin-preview.jpg)
 ![Личный кабинет](./frontend/src/assets/personal-preview.png)
 
 ##  Установка и запуск (локально)
